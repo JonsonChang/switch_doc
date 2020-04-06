@@ -1,7 +1,7 @@
 lan play
 
 # 電腦端設定
-1. http://www.lan-play.com/download，下載 LAN play client
+1. http://www.lan-play.com/download 下載 LAN play client
 2. https://github.com/takashi1kun/lan-play-GUI/releases 下載LAN play GUI, 需要在setting 中指定 lanplay.exe 的所在位置
 3. http://www.lan-play.com/ 找一個適合的 public server。  台灣的應該比較順暢(switchlanplay-tw.ddns.net:11451)
 4. 連線 start
